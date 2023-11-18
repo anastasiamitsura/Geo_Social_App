@@ -3,10 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Geo_Social_App/app/src/main/res/drawable/background_rounded.xml" value="0.124" />
         <entry key="..\:/Geo_Social_App/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
         <entry key="..\:/Geo_Social_App/app/src/main/res/layout/fragment_create__way_.xml" value="0.25416666666666665" />
         <entry key="..\:/Geo_Social_App/app/src/main/res/layout/fragment_profile_.xml" value="0.25416666666666665" />
         <entry key="..\:/Geo_Social_App/app/src/main/res/layout/fragment_search_.xml" value="0.25416666666666665" />
+        <entry key="..\:/Geo_Social_App/app/src/main/res/layout/fragment_ways_.xml" value="0.36666666666666664" />
+        <entry key="..\:/Geo_Social_App/app/src/main/res/layout/item_way.xml" value="0.264" />
         <entry key="..\:/Geo_Social_App/app/src/main/res/menu/menu_toolbar.xml" value="0.25416666666666665" />
       </map>
     </option>
