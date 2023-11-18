@@ -1,13 +1,12 @@
 package com.example.geo_social_app;
 
+import android.content.pm.ActivityInfo;
+import android.os.Bundle;
+import android.view.MenuItem;
+
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.fragment.app.Fragment;
-
-import android.content.pm.ActivityInfo;
-import android.os.Bundle;
-import android.view.LayoutInflater;
-import android.view.MenuItem;
 
 import com.example.geo_social_app.databinding.ActivityMainBinding;
 import com.google.android.material.navigation.NavigationBarView;
