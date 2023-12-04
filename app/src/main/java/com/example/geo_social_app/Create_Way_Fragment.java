@@ -60,5 +60,5 @@ public class Create_Way_Fragment extends Fragment {
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
         return inflater.inflate(R.layout.fragment_create__way_, container, false);
+        }
     }
-}
